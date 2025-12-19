@@ -1,0 +1,73 @@
+
+1.Open your browser’s extension/add-ons manager.
+    -> Menu (⋮) → Extensions → Manage Extensions
+
+
+2.Review all installed extensions carefully.
+    -> Carefully looked at each extension name
+    -> Checked:
+        Purpose of the extension
+        Whether I remember installing it
+        Whether I actively use it
+    Extensions I don’t recognize are treated as red flags.
+
+
+3.Check permissions and reviews for each extension.
+    ->For each extension:
+        Reviewed permissions, such as:
+            “Read and change all your data on all websites”
+            “Access browsing history”
+        Checked:
+            Developer name
+            User reviews
+            Ratings and complaints
+        Extensions with excessive permissions for simple tasks are suspicious.
+
+
+4.Identify any unused or suspicious extensions.
+    ->Indicators used:
+        Not used in a long time
+        Unknown developer
+        Poor reviews
+        Over-privileged permissions
+        Installed automatically (bundled with software)
+
+
+5.Remove suspicious or unnecessary extensions.
+    -> Clicked Remove / Delete
+    -> Confirmed removal
+
+
+6.Restart browser and check for performance improvements.
+    -> After restarting the browser:
+        Observed:
+            Faster page loading
+            Reduced ads/pop-ups
+            Lower memory usage
+        This confirms the impact of removing unnecessary extensions.
+
+
+7.Research how malicious extensions can harm users.
+    -> Malicious browser extensions can:
+            Steal cookies and session tokens
+            Log keystrokes (passwords)
+            Inject ads or redirect traffic
+            Spy on browsing history
+            Modify web content (phishing)
+            Bypass security controls
+            They often act silently in the background.
+
+
+8.Document steps taken and extensions removed
+    -> Opened extension manager
+    -> Reviewed all installed extensions
+    -> Checked permissions and reviews
+    -> Identified unused/suspicious extensions
+    -> Removed unnecessary extensions
+    -> Restarted browser and verified performance
+    -> Researched risks of malicious extensions
+
+
+
+
+
